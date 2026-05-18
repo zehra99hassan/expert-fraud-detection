@@ -1,4 +1,4 @@
-# Fake Expert Detector — RL Simulation
+# Expert Fraud Detection using Reinforcement Learning and NLP
 
 > Identify candidates who overstate their experience using AI assistance.
 
